@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/IR-engine/static/css/main.a33e412f.chunk.css",
-    "main.js": "/IR-engine/static/js/main.e913c37d.chunk.js",
-    "main.js.map": "/IR-engine/static/js/main.e913c37d.chunk.js.map",
-    "runtime-main.js": "/IR-engine/static/js/runtime-main.d51806af.js",
-    "runtime-main.js.map": "/IR-engine/static/js/runtime-main.d51806af.js.map",
-    "static/js/2.18fb5ccf.chunk.js": "/IR-engine/static/js/2.18fb5ccf.chunk.js",
-    "static/js/2.18fb5ccf.chunk.js.map": "/IR-engine/static/js/2.18fb5ccf.chunk.js.map",
-    "index.html": "/IR-engine/index.html",
-    "precache-manifest.672c9a25467f28c8e2f58b4da7b359ad.js": "/IR-engine/precache-manifest.672c9a25467f28c8e2f58b4da7b359ad.js",
-    "service-worker.js": "/IR-engine/service-worker.js",
-    "static/css/main.a33e412f.chunk.css.map": "/IR-engine/static/css/main.a33e412f.chunk.css.map",
-    "static/js/2.18fb5ccf.chunk.js.LICENSE.txt": "/IR-engine/static/js/2.18fb5ccf.chunk.js.LICENSE.txt",
-    "static/media/IR Project Main.png": "/IR-engine/static/media/IR Project Main.d09d8b27.png",
-    "static/media/big indices runs.jpg": "/IR-engine/static/media/big indices runs.15e38cfc.jpg",
-    "static/media/style.scss": "/IR-engine/static/media/illustration-section-02.63d0555d.svg",
-    "static/media/download to the environment.jpg": "/IR-engine/static/media/download to the environment.ded86812.jpg",
-    "static/media/inverted index representation.jpg": "/IR-engine/static/media/inverted index representation.7dc59d22.jpg",
-    "static/media/returning and ranking.jpg": "/IR-engine/static/media/returning and ranking.dd5db277.jpg",
-    "static/media/small indices runs.jpg": "/IR-engine/static/media/small indices runs.32b85c24.jpg",
-    "static/media/uploading.jpg": "/IR-engine/static/media/uploading.d0b35981.jpg"
+    "main.css": "/static/css/main.f3e7ae4d.chunk.css",
+    "main.js": "/static/js/main.e806f8b3.chunk.js",
+    "main.js.map": "/static/js/main.e806f8b3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.151de4be.js",
+    "runtime-main.js.map": "/static/js/runtime-main.151de4be.js.map",
+    "static/js/2.18fb5ccf.chunk.js": "/static/js/2.18fb5ccf.chunk.js",
+    "static/js/2.18fb5ccf.chunk.js.map": "/static/js/2.18fb5ccf.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.977ca62a220f9e27d36cf995cbcc8e52.js": "/precache-manifest.977ca62a220f9e27d36cf995cbcc8e52.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f3e7ae4d.chunk.css.map": "/static/css/main.f3e7ae4d.chunk.css.map",
+    "static/js/2.18fb5ccf.chunk.js.LICENSE.txt": "/static/js/2.18fb5ccf.chunk.js.LICENSE.txt",
+    "static/media/IR Project Main.png": "/static/media/IR Project Main.d09d8b27.png",
+    "static/media/big indices runs.jpg": "/static/media/big indices runs.15e38cfc.jpg",
+    "static/media/style.scss": "/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/download to the environment.jpg": "/static/media/download to the environment.ded86812.jpg",
+    "static/media/inverted index representation.jpg": "/static/media/inverted index representation.7dc59d22.jpg",
+    "static/media/returning and ranking.jpg": "/static/media/returning and ranking.dd5db277.jpg",
+    "static/media/small indices runs.jpg": "/static/media/small indices runs.32b85c24.jpg",
+    "static/media/uploading.jpg": "/static/media/uploading.d0b35981.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d51806af.js",
+    "static/js/runtime-main.151de4be.js",
     "static/js/2.18fb5ccf.chunk.js",
-    "static/css/main.a33e412f.chunk.css",
-    "static/js/main.e913c37d.chunk.js"
+    "static/css/main.f3e7ae4d.chunk.css",
+    "static/js/main.e806f8b3.chunk.js"
   ]
 }
