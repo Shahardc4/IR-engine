@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/IR-engine/static/css/main.a33e412f.chunk.css",
+    "main.js": "/IR-engine/static/js/main.ede55936.chunk.js",
+    "main.js.map": "/IR-engine/static/js/main.ede55936.chunk.js.map",
+    "runtime-main.js": "/IR-engine/static/js/runtime-main.9d7de136.js",
+    "runtime-main.js.map": "/IR-engine/static/js/runtime-main.9d7de136.js.map",
+    "static/js/2.265ec63d.chunk.js": "/IR-engine/static/js/2.265ec63d.chunk.js",
+    "static/js/2.265ec63d.chunk.js.map": "/IR-engine/static/js/2.265ec63d.chunk.js.map",
+    "index.html": "/IR-engine/index.html",
+    "precache-manifest.72bd8989da31ac474e9ed1a3c7866fb3.js": "/IR-engine/precache-manifest.72bd8989da31ac474e9ed1a3c7866fb3.js",
+    "service-worker.js": "/IR-engine/service-worker.js",
+    "static/css/main.a33e412f.chunk.css.map": "/IR-engine/static/css/main.a33e412f.chunk.css.map",
+    "static/js/2.265ec63d.chunk.js.LICENSE.txt": "/IR-engine/static/js/2.265ec63d.chunk.js.LICENSE.txt",
+    "static/media/IR Project Main.png": "/IR-engine/static/media/IR Project Main.d09d8b27.png",
+    "static/media/big indices runs.jpg": "/IR-engine/static/media/big indices runs.15e38cfc.jpg",
+    "static/media/style.scss": "/IR-engine/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/download to the environment.jpg": "/IR-engine/static/media/download to the environment.ded86812.jpg",
+    "static/media/inverted index representation.jpg": "/IR-engine/static/media/inverted index representation.7dc59d22.jpg",
+    "static/media/returning and ranking.jpg": "/IR-engine/static/media/returning and ranking.dd5db277.jpg",
+    "static/media/small indices runs.jpg": "/IR-engine/static/media/small indices runs.32b85c24.jpg",
+    "static/media/uploading.jpg": "/IR-engine/static/media/uploading.d0b35981.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d7de136.js",
+    "static/js/2.265ec63d.chunk.js",
+    "static/css/main.a33e412f.chunk.css",
+    "static/js/main.ede55936.chunk.js"
+  ]
+}
